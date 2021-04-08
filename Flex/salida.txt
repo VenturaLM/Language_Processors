@@ -1,0 +1,5 @@
+El precio de VAC1 es de 100.0 euros sin iva y de 121.0 con iva.
+El precio de 1VAC es de 100.0 euros sin iva y de 121.0 con iva.
+El precio de VA1C es de 100.0 euros sin iva y de 121.0 con iva.
+El espejo costó 37.5 euros
+La temperatura era de 20.0 grados.
