@@ -1,0 +1,128 @@
+
+Opening parentheses: <(> --> token 294
+
+Operator: <*> --> token 278
+
+Identifier: <Esto> --> token 296
+
+Identifier: <es> --> token 296
+
+Identifier: <un> --> token 296
+
+Identifier: <comentario> --> token 296
+
+Identifier: <bien> --> token 296
+
+Identifier: <hecho> --> token 296
+
+Operator: <*> --> token 278
+
+Ending parentheses final: <)> --> token 295
+
+Identifier: <inicio> --> token 296
+
+Inline comment: <!!programa inútil que no hace nada> --> token 300
+
+Identifier: <escribir> --> token 296
+
+Opening parentheses: <(> --> token 294
+
+String: <Escribe aquí un 'número'> --> token 297
+
+Ending parentheses final: <)> --> token 295
+
+End of statement: <;> --> token 293
+
+Identifier: <leer> --> token 296
+
+Opening parentheses: <(> --> token 294
+
+Identifier: <numero> --> token 296
+
+Ending parentheses final: <)> --> token 295
+
+End of statement: <;> --> token 293
+
+Identifier: <numero> --> token 296
+
+Operator: <:=> --> token 275
+
+Identifier: <numero> --> token 296
+
+Operator: <+> --> token 276
+
+Identifier: <alpha> --> token 296
+
+End of statement: <;> --> token 293
+
+Identifier: <mientras> --> token 296
+
+Opening parentheses: <(> --> token 294
+
+Identifier: <numero> --> token 296
+
+Operator: <<> --> token 284
+
+Reserverd word: <x> --> token 275
+
+Ending parentheses final: <)> --> token 295
+
+Identifier: <hacer> --> token 296
+
+Identifier: <numero> --> token 296
+
+Operator: <:=> --> token 275
+
+Identifier: <numero> --> token 296
+
+Operator: <+> --> token 276
+
+Number: <1> --> token 298
+
+End of statement: <;> --> token 293
+
+Identifier: <escribir> --> token 296
+
+Opening parentheses: <(> --> token 294
+
+String: <numero=> --> token 297
+
+Operator: <||> --> token 283
+
+Identifier: <numero> --> token 296
+
+Ending parentheses final: <)> --> token 295
+
+End of statement: <;> --> token 293
+
+Identifier: <fin_mientras> --> token 296
+
+Identifier: <fin> --> token 296
+
+Operator: <#div> --> token 281
+
+Number: <123> --> token 298
+
+Operator: <#y> --> token 291
+
+Operator: <#o> --> token 290
+
+Operator: <#no> --> token 292
+
+Opening parentheses: <(> --> token 294
+
+Reserverd word: <A> --> token 275
+
+Operator: <>=> --> token 287
+
+Number: <0> --> token 298
+
+Ending parentheses final: <)> --> token 295
+
+Operator: <#y> --> token 291
+
+Operator: <#no> --> token 292
+
+Comment: << EJEMPLO
+de comentario
+de>> --> token 299

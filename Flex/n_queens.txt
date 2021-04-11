@@ -1,0 +1,27 @@
+
+
+!! Programa para la resolución del problema de las N-Reinas.
+
+inicio
+		 x(1) := 0;
+		 k := 1;
+
+         mientras k > 0 hacer
+		 	x(k) := x(k) + 1;
+			 
+			 mientras x(k) <= n #y Lugar(k, x) == falso hacer
+			 	x(k) := x(k) + 1;
+			 fin_mientras;
+
+			 si x(k) <= n entonces
+			 	si k == n entonces
+				 	escribir( 'x(1), x(2), ..., x(k)' );
+				si_no;
+					k := k + 1;
+					x(k) := 0;
+				fin_si;
+			 si_no;
+			 	k := k - 1;
+			 fin_si;
+		 fin_mientras;
+fin;
